@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\MP\\6 semester\\hashChain\\HashChainTests\\HashChainTests.csproj": {}
+  },
+  "projects": {
+    "H:\\MP\\6 semester\\hashChain\\HashChainTests\\HashChainTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\MP\\6 semester\\hashChain\\HashChainTests\\HashChainTests.csproj",
+        "projectName": "HashChainTests",
+        "projectPath": "H:\\MP\\6 semester\\hashChain\\HashChainTests\\HashChainTests.csproj",
+        "packagesPath": "C:\\Users\\v.sirazov\\.nuget\\packages\\",
+        "outputPath": "H:\\MP\\6 semester\\hashChain\\HashChainTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\v.sirazov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

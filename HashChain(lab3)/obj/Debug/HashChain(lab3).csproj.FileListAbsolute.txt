@@ -1,0 +1,21 @@
+C:\Users\Vladimir\source\repos\MP\Sem6\HashChain(lab3)\HashChain(lab3)\bin\Debug\HashChain(lab3).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\HashChain(lab3)\HashChain(lab3)\bin\Debug\HashChain(lab3).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\HashChain(lab3)\HashChain(lab3)\obj\Debug\HashChain(lab3).csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\HashChain(lab3)\HashChain(lab3)\obj\Debug\HashChain(lab3).csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\HashChain(lab3)\HashChain(lab3)\obj\Debug\HashChain(lab3).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\HashChain(lab3)\HashChain(lab3)\obj\Debug\HashChain(lab3).pdb
+H:\MP\6 semester\hashChain\HashChain(lab3)\bin\Debug\HashChain(lab3).dll
+H:\MP\6 semester\hashChain\HashChain(lab3)\bin\Debug\HashChain(lab3).pdb
+H:\MP\6 semester\hashChain\HashChain(lab3)\bin\Debug\xunit.abstractions.dll
+H:\MP\6 semester\hashChain\HashChain(lab3)\bin\Debug\xunit.assert.dll
+H:\MP\6 semester\hashChain\HashChain(lab3)\bin\Debug\xunit.core.dll
+H:\MP\6 semester\hashChain\HashChain(lab3)\bin\Debug\xunit.execution.desktop.dll
+H:\MP\6 semester\hashChain\HashChain(lab3)\bin\Debug\xunit.abstractions.xml
+H:\MP\6 semester\hashChain\HashChain(lab3)\bin\Debug\xunit.assert.xml
+H:\MP\6 semester\hashChain\HashChain(lab3)\bin\Debug\xunit.core.xml
+H:\MP\6 semester\hashChain\HashChain(lab3)\bin\Debug\xunit.execution.desktop.xml
+H:\MP\6 semester\hashChain\HashChain(lab3)\obj\Debug\HashChain(lab3).csprojAssemblyReference.cache
+H:\MP\6 semester\hashChain\HashChain(lab3)\obj\Debug\HashChain(lab3).csproj.CoreCompileInputs.cache
+H:\MP\6 semester\hashChain\HashChain(lab3)\obj\Debug\HashChain(lab3).csproj.CopyComplete
+H:\MP\6 semester\hashChain\HashChain(lab3)\obj\Debug\HashChain(lab3).dll
+H:\MP\6 semester\hashChain\HashChain(lab3)\obj\Debug\HashChain(lab3).pdb
