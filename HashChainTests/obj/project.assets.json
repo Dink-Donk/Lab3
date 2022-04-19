@@ -307,23 +307,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\v.sirazov\\.nuget\\packages\\": {},
+    "C:\\Users\\Vladimir\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\MP\\6 semester\\hashChain\\HashChainTests\\HashChainTests.csproj",
+      "projectUniqueName": "C:\\Users\\Vladimir\\Desktop\\Lab3-main\\HashChainTests\\HashChainTests.csproj",
       "projectName": "HashChainTests",
-      "projectPath": "H:\\MP\\6 semester\\hashChain\\HashChainTests\\HashChainTests.csproj",
-      "packagesPath": "C:\\Users\\v.sirazov\\.nuget\\packages\\",
-      "outputPath": "H:\\MP\\6 semester\\hashChain\\HashChainTests\\obj\\",
+      "projectPath": "C:\\Users\\Vladimir\\Desktop\\Lab3-main\\HashChainTests\\HashChainTests.csproj",
+      "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vladimir\\Desktop\\Lab3-main\\HashChainTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\v.sirazov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vladimir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -359,7 +359,8 @@
             "target": "Package",
             "version": "[2.4.0, )"
           }
-        }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

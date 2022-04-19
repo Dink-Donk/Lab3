@@ -79,6 +79,7 @@ namespace TimeTest
                             wordsWithFreqMT27.Add(word.Value);
                     }
                 }
+                Console.WriteLine("Частотный словарь создан");
 
                 sw.Start();
                 foreach (var word in wordsWithFreqMT27)
@@ -86,7 +87,7 @@ namespace TimeTest
                         dict.Remove(word);   
                 }
                 sw.Stop();
-                Console.WriteLine($"Из словаря слова были удалены за {sw.ElapsedTicks} ticks");
+                Console.WriteLine($"Из словаря слова были удалены за {sw.ElapsedMilliseconds} мс");
 
                 sw.Restart();
                 foreach (var word in wordsWithFreqMT27)
@@ -94,7 +95,7 @@ namespace TimeTest
                         hashTable.Remove(word);               
                 }
                 sw.Stop();
-                Console.WriteLine($"Из хэша слова были удалены за {sw.ElapsedTicks} ticks");
+                Console.WriteLine($"Из хэша слова были удалены за {sw.ElapsedMilliseconds} мс");
             }
         }
     }

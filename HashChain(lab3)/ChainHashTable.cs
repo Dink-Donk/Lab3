@@ -12,7 +12,6 @@ namespace HashTableForStudents
         private const int MaxChainLength = 8;
         private int _currentChainLength;
         private readonly GetPrimeNumber _primeNumber = new GetPrimeNumber();
-        //????? readonly
         private HashMaker<TKey> _hashMaker;
 
         public ChainHashTable()
@@ -43,7 +42,6 @@ namespace HashTableForStudents
                     _table[h] = new List<Pair<TKey, TValue>>(MaxChainLength);
                 var item = new Pair<TKey, TValue>(key, value);
                 _table[h].Add(item);
-                //Зачем?
                 _currentChainLength = Math.Max(_currentChainLength, _table[h].Count);
                 Count++;
             }
@@ -59,20 +57,20 @@ namespace HashTableForStudents
 
         public void Remove(TKey key)
         {
-            var h = _hashMaker.ReturnHash(key);
+            var keyHash = _hashMaker.ReturnHash(key);
 
 
-            if (_table[h] == null)
+            if (_table[keyHash] == null)
             {
                 throw new KeyNotFoundException();
             }
             else
             {
-                for(int i = 0;i<_table[h].Count;i++)
+                for(int i = 0;i<_table[keyHash].Count;i++)
                 {
-                    if(_table[h][i].Key.Equals(key))
+                    if(_table[keyHash][i].Key.Equals(key))
                     {
-                        _table[h].RemoveAt(i);
+                        _table[keyHash].RemoveAt(i);
                         break;
                     }
                 }
@@ -84,7 +82,7 @@ namespace HashTableForStudents
         {
             var capacity = _primeNumber.Next();
             var temp = new List<Pair<TKey, TValue>>[capacity];
-            CopyHash(temp);
+            CopyHashTableItems(temp);
 
             _table = new List<Pair<TKey, TValue>>[capacity];
             _currentChainLength = 0;
@@ -96,27 +94,14 @@ namespace HashTableForStudents
                 {
                     foreach (var element in temp[i])
                     {
-                        var h = _hashMaker.ReturnHash(element.Key);
-                        if (_table[h] == null)
-                            _table[h] = new List<Pair<TKey, TValue>>(MaxChainLength);
-                        var item = new Pair<TKey, TValue>(element.Key, element.Value);
-                        _table[h].Add(item);
-                        //Зачем?
-                        _currentChainLength = Math.Max(_currentChainLength, _table[h].Count);
-                        Count++;
-
-                        if (_currentChainLength >= MaxChainLength) // проверка размера
-                        {
-                            IncreaseTable();
-                        }
-
+                        this.Add(element.Key,element.Value);
                     }
                 }
             }
 
         }
 
-        private void CopyHash(List<Pair<TKey, TValue>>[] temp)
+        private void CopyHashTableItems(List<Pair<TKey, TValue>>[] temp)
         {
             for (int i = 0; i < _table.Length; i++)
             {

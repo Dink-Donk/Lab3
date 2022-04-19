@@ -19,3 +19,18 @@ H:\MP\6 semester\hashChain\HashChain(lab3)\obj\Debug\HashChain(lab3).csproj.Core
 H:\MP\6 semester\hashChain\HashChain(lab3)\obj\Debug\HashChain(lab3).csproj.CopyComplete
 H:\MP\6 semester\hashChain\HashChain(lab3)\obj\Debug\HashChain(lab3).dll
 H:\MP\6 semester\hashChain\HashChain(lab3)\obj\Debug\HashChain(lab3).pdb
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\bin\Debug\HashChain(lab3).dll
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\bin\Debug\HashChain(lab3).pdb
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\bin\Debug\xunit.abstractions.dll
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\bin\Debug\xunit.assert.dll
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\bin\Debug\xunit.core.dll
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\bin\Debug\xunit.abstractions.xml
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\bin\Debug\xunit.assert.xml
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\bin\Debug\xunit.core.xml
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\obj\Debug\HashChain(lab3).csprojAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\obj\Debug\HashChain(lab3).csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\obj\Debug\HashChain(lab3).csproj.CopyComplete
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\obj\Debug\HashChain(lab3).dll
+C:\Users\Vladimir\Desktop\Lab3-main\HashChain(lab3)\obj\Debug\HashChain(lab3).pdb

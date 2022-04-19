@@ -8,3 +8,13 @@ H:\MP\6 semester\hashChain\TimeTest\obj\Debug\TimeTest.csproj.CoreCompileInputs.
 H:\MP\6 semester\hashChain\TimeTest\obj\Debug\TimeTest.csproj.CopyComplete
 H:\MP\6 semester\hashChain\TimeTest\obj\Debug\TimeTest.exe
 H:\MP\6 semester\hashChain\TimeTest\obj\Debug\TimeTest.pdb
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\bin\Debug\TimeTest.exe.config
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\bin\Debug\TimeTest.exe
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\bin\Debug\TimeTest.pdb
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\bin\Debug\HashChain(lab3).dll
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\bin\Debug\HashChain(lab3).pdb
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\obj\Debug\TimeTest.csprojAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\obj\Debug\TimeTest.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\obj\Debug\TimeTest.csproj.CopyComplete
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\obj\Debug\TimeTest.exe
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\obj\Debug\TimeTest.pdb

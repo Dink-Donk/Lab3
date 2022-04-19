@@ -1,0 +1,10 @@
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\bin\Release\TimeTest.exe.config
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\bin\Release\TimeTest.exe
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\bin\Release\TimeTest.pdb
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\bin\Release\HashChain(lab3).dll
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\bin\Release\HashChain(lab3).pdb
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\obj\Release\TimeTest.csprojAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\obj\Release\TimeTest.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\obj\Release\TimeTest.csproj.CopyComplete
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\obj\Release\TimeTest.exe
+C:\Users\Vladimir\Desktop\Lab3-main\TimeTest\obj\Release\TimeTest.pdb
